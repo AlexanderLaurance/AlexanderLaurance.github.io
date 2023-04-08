@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Laurance`s home</title>
+  <title>Laurance`s blog</title>
   
   <subtitle>何处秋风至？萧萧送雁群。</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>鹩枫</name>
+    <name>(鹩枫)Laurance</name>
     
   </author>
   
